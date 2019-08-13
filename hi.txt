@@ -8,7 +8,10 @@ changer form client
 from fithot /////////
 
 this is from hotfix.
-
+----------------------
+from server
+and master pulled
+---------------------
 3rd..
 :wq
 :wq
