@@ -4,7 +4,7 @@ changer form client
 ......
 8-13 changed..
 8-13 from server
-8-13 from client2
+8-13 from client2vi
 from fithot /////////
 
 this is from hotfix.
@@ -16,3 +16,15 @@ and master pulled
 :wq
 :wq
 
+AAAAAAAAA FROM HOTFIX
+
+
+
+-----------
+from hotfix
+
+before mergeid--
+--------------------
+----------------------
+:
+merge finished.....:
